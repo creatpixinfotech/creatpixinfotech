@@ -9,7 +9,7 @@ Welcome to the GitHub repository of our Shopify Development Agency! We are a ded
 - [About Us](#about-us)
 - [Services](#services)
 - [Contact Us](#contact-us)
-- [Frameworks, Languages & Tools] (#frameworks-languages--tools)
+- [Frameworks, Languages, Tools] (#frameworks-languages-tools)
 
 ## About Us
 
@@ -44,7 +44,7 @@ We would love to hear from you! If you have any questions, inquiries, or would l
 
 We value your feedback and look forward to connecting with you!
 
-## Frameworks, Languages & Tools
+## Frameworks, Languages, Tools
 
 - HTML, CSS, TailWind, Bootstrap, Pixel Perfect, Responsive
 - Javascript, JQuery, SwiperJS, Flickity, Slick

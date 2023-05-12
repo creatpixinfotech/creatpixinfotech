@@ -9,7 +9,6 @@ Welcome to the GitHub repository of our Shopify Development Agency! We are a ded
 - [About Us](#about-us)
 - [Services](#services)
 - [Contact Us](#contact-us)
-- [Frameworks] (#frameworks)
 
 ## About Us
 

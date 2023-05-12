@@ -9,12 +9,16 @@ Welcome to the GitHub repository of our Shopify Development Agency! We are a ded
 - [About Us](#about-us)
 - [Services](#services)
 - [Contact Us](#contact-us)
+- [Frameworks, Languages & Tools] (#frameworks-languages-tools)
 
 ## About Us
 
 At our Shopify Development Agency, we are passionate about helping businesses thrive in the online marketplace. Our team consists of highly skilled developers, designers, and e-commerce experts who possess deep knowledge and experience in the Shopify ecosystem. We are dedicated to delivering outstanding Shopify solutions that drive sales, enhance user experiences, and exceed our clients' expectations.
 
 We take pride in our ability to understand our clients' unique needs and translate them into customized, feature-rich Shopify stores. From design and development to optimization and support, we offer end-to-end services that empower businesses to succeed in the ever-evolving e-commerce landscape.
+
+- 2,067 contributions in 2022
+- 829* contributions in 2023 (till April)
 
 ## Services
 
@@ -39,6 +43,26 @@ We would love to hear from you! If you have any questions, inquiries, or would l
 - LinkedIn: [@creatpix](https://www.linkedin.com/company/creatpix)
 
 We value your feedback and look forward to connecting with you!
+
+## Frameworks, Languages & Tools
+
+- HTML, CSS, TailWind, Bootstrap, Pixel Perfect, Responsive
+- Javascript, JQuery, SwiperJS, Flickity, Slick
+- SHOPIFY
+  - Headless Shopify, Hydrogen, Oxygen, Shopify Scrips, Shopify Functions, Shopify Extensions, Shopify Apps
+  - GraphQL, RestAPI, Admin APIs, Storefront APIs
+  - Klaviyo, MailChimp
+  - Recharge, Accentuate, Langify
+- VueJS, NuxtJS, ReactJS, AlpineJS
+- PHP, MySQL, Postgress, Airtable, MongoDB
+- WordPress, BigCommerce, Magento, Elementor
+- StoryBlock, CraftCMS
+- DigitalOcean, CloudFlare, GoDaddy, SiteGround
+- GitHub, GitLab
+- Visual Studio, Sublime, CMD
+- Basecamp, Trello, JIIRA
+- Slack, Skype, Whatsapp, Pumble
+
 
 ---
 

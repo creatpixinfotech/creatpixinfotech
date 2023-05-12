@@ -4,15 +4,6 @@
 
 Welcome to the GitHub repository of our Shopify Development Agency! We are a dedicated team of Shopify experts specializing in creating exceptional e-commerce solutions for businesses of all sizes. This repository serves as a central hub for our open-source projects, code samples, and valuable resources. Feel free to explore, contribute, and collaborate with us!
 
-## About Us
-
-At our Shopify Development Agency, we are passionate about helping businesses thrive in the online marketplace. Our team consists of highly skilled developers, designers, and e-commerce experts who possess deep knowledge and experience in the Shopify ecosystem. We are dedicated to delivering outstanding Shopify solutions that drive sales, enhance user experiences, and exceed our clients' expectations.
-
-We take pride in our ability to understand our clients' unique needs and translate them into customized, feature-rich Shopify stores. From design and development to optimization and support, we offer end-to-end services that empower businesses to succeed in the ever-evolving e-commerce landscape.
-
-- 2,067 contributions in 2022
-- 829* contributions in 2023 (till April)
-
 ## Services
 
 - Shopify Store Setup and Configuration

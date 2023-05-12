@@ -17,18 +17,7 @@ Welcome to the GitHub repository of our Shopify Development Agency! We are a ded
 - API Development and Integration
 - Ongoing Maintenance and Support
 
-## Contact Us
-
-We would love to hear from you! If you have any questions, inquiries, or would like to discuss potential projects or collaborations, please feel free to reach out to us:
-
-- Email: [info@creatpix.com](mailto:info@creatpix.com)
-- Website: [https://creatpix.com](https://creatpix.com)
-- Instagram: [@creatpixinfotech](https://www.instagram.com/creatpixinfotech)
-- LinkedIn: [@creatpix](https://www.linkedin.com/company/creatpix)
-
-We value your feedback and look forward to connecting with you!
-
-## Frameworks
+## Frameworks, Technologies & Tools
 
 - HTML, CSS, TailWind, Bootstrap, Pixel Perfect, Responsive
 - Javascript, JQuery, SwiperJS, Flickity, Slick
@@ -46,6 +35,17 @@ We value your feedback and look forward to connecting with you!
 - Visual Studio, Sublime, CMD
 - Basecamp, Trello, JIIRA
 - Slack, Skype, Whatsapp, Pumble
+
+## Contact Us
+
+We would love to hear from you! If you have any questions, inquiries, or would like to discuss potential projects or collaborations, please feel free to reach out to us:
+
+- Email: [info@creatpix.com](mailto:info@creatpix.com)
+- Website: [https://creatpix.com](https://creatpix.com)
+- Instagram: [@creatpixinfotech](https://www.instagram.com/creatpixinfotech)
+- LinkedIn: [@creatpix](https://www.linkedin.com/company/creatpix)
+
+We value your feedback and look forward to connecting with you!
 
 
 ---

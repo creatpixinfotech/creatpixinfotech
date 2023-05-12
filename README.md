@@ -4,19 +4,6 @@
 
 Welcome to the GitHub repository of our Shopify Development Agency! We are a dedicated team of Shopify experts specializing in creating exceptional e-commerce solutions for businesses of all sizes. This repository serves as a central hub for our open-source projects, code samples, and valuable resources. Feel free to explore, contribute, and collaborate with us!
 
-## Services
-
-- Shopify Store Setup and Configuration
-- Custom Theme Development and Design
-- Third-Party App Integration
-- E-commerce Strategy and Consulting
-- Performance Optimization and Scalability
-- Responsive Web Design and Mobile Optimization
-- Payment Gateway Integration
-- Store Migration and Upgrades
-- API Development and Integration
-- Ongoing Maintenance and Support
-
 ## Frameworks, Technologies & Tools
 
 - HTML, CSS, TailWind, Bootstrap, Pixel Perfect, Responsive
